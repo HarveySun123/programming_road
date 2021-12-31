@@ -1,0 +1,4 @@
+﻿  PowTest.cpp
+c:\users\administrator\desktop\code\tests\cpptests\powtest.cpp(34): warning C4552: “*”: 运算符不起任何作用；应输入带副作用的运算符
+  CppTests.vcxproj -> C:\Users\Administrator\Desktop\Code\Tests\Debug\CppTests.exe
+  CppTests.vcxproj -> C:\Users\Administrator\Desktop\Code\Tests\Debug\CppTests.pdb (Full PDB)

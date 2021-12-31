@@ -1,0 +1,9 @@
+﻿  977SortedSuqares.cpp
+c:\users\administrator\desktop\code\tests\leetcodetests\977sortedsuqares.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\code\tests\leetcodetests\977sortedsuqares.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\code\tests\leetcodetests\977sortedsuqares.cpp(36): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\administrator\desktop\code\tests\leetcodetests\977sortedsuqares.cpp(37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\code\tests\leetcodetests\977sortedsuqares.cpp(39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\code\tests\leetcodetests\977sortedsuqares.cpp(42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  LeetCodeTests.vcxproj -> C:\Users\Administrator\Desktop\Code\Tests\Debug\LeetCodeTests.exe
+  LeetCodeTests.vcxproj -> C:\Users\Administrator\Desktop\Code\Tests\Debug\LeetCodeTests.pdb (Full PDB)

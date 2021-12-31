@@ -1,0 +1,6 @@
+﻿  MicroSoft_MyClass.cpp
+c:\users\administrator\desktop\code\tests\interviewtests\microsoft_myclass.cpp(26): error C2440: “=”: 无法从“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”转换为“int”
+  c:\users\administrator\desktop\code\tests\interviewtests\microsoft_myclass.cpp(26): note: 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  Honor2_numOfNoRoom.cpp
+  Honor2_numOfDate.cpp
+  正在生成代码...
